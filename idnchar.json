@@ -1,0 +1,3232 @@
+{ 
+      
+    "а":{
+            "char":"а",
+            "codepoint": "U+0430",
+            "decimal": 1072, 
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER A"
+        },
+
+    "ȁ":{
+            "char":"ȁ",
+            "codepoint": "U+0201",
+            "decimal": 513,          
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER A WITH DOUBLE GRAVE"
+        },
+            
+    "à":{
+            "char":"à",
+            "codepoint": "U+00e0",
+            "decimal": 224,      
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER A WITH GRAVE"
+        },
+                     
+    "ạ":{
+            "char":"ạ",
+            "codepoint": "U+1ea1",
+            "decimal": 7841,      
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER A WITH DOT BELOW"
+        },
+            
+    "á":{
+            "char": "á",
+            "codepoint": "U+00e1",
+            "decimal": 225,  
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER A WITH ACUTE"
+        },   
+   
+    "â":{
+            "char": "â",
+            "codepoint": "U+00e2",
+            "decimal": 226,          
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX"
+        },
+
+    "ậ":{
+            "char": "ậ",
+            "codepoint": "U+1ead",
+            "decimal": 7853,      
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER A WITH CIRCUMFLEX AND DOT BELOW"
+        },
+    
+    "ǡ":{
+            "char": "ǡ",
+            "codepoint": "U+01e1",
+            "decimal": 481,    
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER A WITH DOT ABOVE AND MACRON"
+        },
+
+    "ӓ":{
+            "char": "ӓ",
+            "codepoint": "U+04d3",
+            "decimal": 1235,
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER A WITH DIAERESIS"
+        },
+
+    "ä":{
+            "char": "ä",
+            "codepoint": "U+00e4",
+            "decimal": 228,
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER A WITH DIAERESIS"
+        },
+
+    "å":{
+            "char": "å",
+            "codepoint": "U+00e5",
+            "decimal": 229,
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER A WITH RING ABOVE"
+        },
+
+    "ã":{
+            "char": "ã",
+            "codepoint": "U+00e3",
+            "decimal": 227,  
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER A WITH TILDE"
+        },
+
+    "ą":{
+            "char": "ą",
+            "codepoint": "U+0105",
+            "decimal": 261,
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER A WITH OGONEK"
+        },
+    
+    "ả":{
+            "char": "ả",
+            "codepoint": "U+1ea3",
+            "decimal": 7843,
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER A WITH HOOK ABOVE"
+        },
+
+    "ā":{
+            "char": "ā",
+            "codepoint": "U+0101",
+            "decimal": 257,
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER A WITH MACRON"
+        },
+
+    "ǎ":{
+            "char": "ǎ",
+            "codepoint": "U+01ce",
+            "decimal": 462,
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER A WITH CARON"
+        },
+
+    "ặ":{
+            "char": "ặ",
+            "codepoint": "U+1eb7",
+            "decimal": 7863,
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER A WITH BREVE AND DOT BELOW"
+        },
+
+    "ȧ":{
+            "char": "ȧ",
+            "codepoint": "U+0227",
+            "decimal": 551,
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER A WITH DOT ABOVE"
+        },
+    
+    "α":{
+        "char": "α",
+        "codepoint": "U+03B1",
+        "decimal": 945,
+        "lang": "Greek and Coptic",
+        "name": "GREEK SMALL LETTER ALPHA"
+
+       },
+
+    "ꝧ":{
+            "char": "ꝧ",
+            "codepoint": "U+a767",
+            "decimal": 42855,
+            "lang": "Latin Extended-D",
+            "name": "LATIN SMALL LETTER THORN WITH STROKE THROUGH DESCENDER"
+        },
+
+    "ƀ":{
+            "char": "ƀ",
+            "codepoint": "U+0180",
+            "decimal": 384,
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER B WITH STROKE"
+        },
+
+    "ꝥ":{
+            "char": "ꝥ",
+            "codepoint": "U+a765",
+            "decimal": 42853,
+            "lang": "Latin Extended-D",
+            "name": "LATIN SMALL LETTER THORN WITH STROKE"
+        },
+
+    "ᶀ":{
+            "char": "ᶀ",
+            "codepoint": "U+1d80",
+            "decimal": 7552,
+            "lang": "Phonetic Extensions Supplement",
+            "name": "LATIN SMALL LETTER B WITH PALATAL HOOK"
+        },
+
+    "ḅ":{
+            "char": "ḅ",
+            "codepoint": "U+1e05",
+            "decimal": 7685,
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER B WITH DOT BELOW"
+        },
+    
+    "ɓ":    {
+            "char": "ɓ",
+            "codepoint": "U+0253",
+            "decimal": 595,
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER B WITH HOOK"
+        }, 
+        
+    "þ":{
+            "char": "þ",
+            "codepoint": "U+00fe",
+            "decimal": 254,
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER THORN"
+        },
+
+    "ḃ":    {
+            "char": "ḃ",
+            "codepoint": "U+1e03",
+            "decimal": 7683,
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER B WITH DOT ABOVE"
+        },
+
+    "ϸ":   {
+            "char": "ϸ",
+            "codepoint": "U+03f8",
+            "decimal": 1016,
+            "lang": "Greek and Coptic",
+            "name": "GREEK SMALL LETTER SHO"
+        },
+
+    "ḇ":    {
+            "char": "ḇ",
+            "codepoint": "U+1e07",
+            "decimal": 7687,
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER B WITH LINE BELOW"
+        },
+
+    "ƃ": {
+            "char": "ƃ",
+            "codepoint": "U+0183",
+            "decimal": 387,
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER B WITH TOPBAR"
+        },
+
+    "ƅ":{
+            "char":"ƅ",
+            "codepoint": "U+0185",
+            "decimal": 389,
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER TONE SIX"
+
+    },
+
+    "ь":{
+            "char":"ь",
+            "codepoint": "U+044C",
+            "decimal": 1100,  
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER SOFT DESIGN"
+    },
+
+    "с" :{
+
+            "char":"с",
+            "codepoint": "U+0441",
+            "decimal": 1089,  
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER ES"
+        },
+
+    "ç":    {
+            "char": "ç",
+            "codepoint": "U+00e7",
+            "decimal": 231, 
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER C WITH CEDILLA"
+        }, 
+    
+    "ɕ":    {
+            "char": "ɕ",
+            "codepoint": "U+0255",
+            "decimal": 597,            
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER C WITH CURL"
+        },    
+
+    "ᴄ":    {
+            "char": "ᴄ",
+            "codepoint": "U+1d04",
+            "decimal": 7428,            
+            "lang": "Phonetic Extensions",
+            "name": "LATIN LETTER SMALL CAPITAL C"
+        },
+
+    "ҫ":    {
+            "char": "ҫ",
+            "codepoint": "U+04ab",
+            "decimal": 1195,            
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER ES WITH DESCENDER"
+        },
+    
+    "ꞔ":    {
+            "char": "ꞔ",
+            "codepoint": "U+a794",
+            "decimal": 42900,            
+            "lang": "Latin Extended-D",
+            "name": "LATIN SMALL LETTER C WITH PALATAL HOOK"
+        },
+
+    "ḉ":    {
+            "char": "ḉ",
+            "codepoint": "U+1e09",
+            "decimal": 7689,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER C WITH CEDILLA AND ACUTE"
+        },
+
+    "ċ":    {
+            "char": "ċ",
+            "codepoint": "U+010b",
+            "decimal": 267,            
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER C WITH DOT ABOVE"
+        },
+
+    "ĉ":    {
+            "char": "ĉ",
+            "codepoint": "U+0109",
+            "decimal": 265,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER C WITH CIRCUMFLEX"
+        },    
+
+    "ć":    {
+            "char": "ć",
+            "codepoint": "U+0107",
+            "decimal": 263,            
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER C WITH ACUTE"
+        },
+
+    "č":    {
+            "char": "č",
+            "codepoint": "U+010d",
+            "decimal": 269,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER C WITH CARON"
+        },
+    
+    "ƌ":    {
+            "char": "ƌ",
+            "codepoint": "U+018c",
+            "decimal": 396,            
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER D WITH TOPBAR"
+        },
+
+    "ḋ":    {
+            "char": "ḋ",
+            "codepoint": "U+1e0b",
+            "decimal": 7691,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER D WITH DOT ABOVE"
+        }, 
+        
+    "ḑ":    {
+            "char": "ḑ",
+            "codepoint": "U+1e11",
+            "decimal": 7697,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER D WITH CEDILLA"
+        },  
+        
+    "ᶁ":    {
+            "char": "ᶁ",
+            "codepoint": "U+1d81",
+            "decimal": 7553,           
+            "lang": "Phonetic Extensions Supplement",
+            "name": "LATIN SMALL LETTER D WITH PALATAL HOOK"
+        },
+    
+    "ď":    {
+            "char": "ď",
+            "codepoint": "U+010f",
+            "decimal": 271,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER D WITH CARON"
+        },
+
+    "ḏ":    {
+            "char": "ḏ",
+            "codepoint": "U+1e0f",
+            "decimal": 7695,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER D WITH LINE BELOW"
+        },
+
+    "đ":    {
+            "char": "đ",
+            "codepoint": "U+0111",
+            "decimal": 273,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER D WITH STROKE"
+        },
+    
+    "ḍ":    {
+            "char": "ḍ",
+            "codepoint": "U+1e0d",
+            "decimal": 7693,          
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER D WITH DOT BELOW"
+        },
+
+    "ȡ":    {
+            "char": "ȡ",
+            "codepoint": "U+0221",
+            "decimal": 545,           
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER D WITH CURL"
+        },
+
+    "ḓ":    {
+            "char": "ḓ",
+            "codepoint": "U+1e13",
+            "decimal": 7699,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER D WITH CIRCUMFLEX BELOW"
+        },
+
+    "ɗ":{
+            "char": "ɗ",
+            "codepoint": "U+0257",
+            "decimal": 599,            
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER D WITH HOOK"
+    },
+
+    "е":    {
+            "char": "е",
+            "codepoint": "U+0435",
+            "decimal": 1077,          
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER IE"
+        },
+
+    "ẻ":    {
+            "char": "ẻ",
+            "codepoint": "U+1ebb",
+            "decimal": 7867,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER E WITH HOOK ABOVE"
+        },  
+
+    "ɛ":    {
+            "char": "ɛ",
+            "codepoint": "U+025b",
+            "decimal": 603,           
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER OPEN E"
+        },
+    
+    "ē":    {
+            "char": "ē",
+            "codepoint": "U+0113",
+            "decimal": 275,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER E WITH MACRON"
+        },
+
+    "ȅ":    {
+            "char": "ȅ",
+            "codepoint": "U+0205",
+            "decimal": 517,            
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER E WITH DOUBLE GRAVE"
+        },
+
+    "ѳ":    {
+            "char": "ѳ",
+            "codepoint": "U+0473",
+            "decimal": 1139,            
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER FITA"
+        },
+
+    "ʙ":    {
+            "char": "ʙ",
+            "codepoint": "U+0299",
+            "decimal": 665,           
+            "lang": "IPA Extensions",
+            "name": "LATIN LETTER SMALL CAPITAL B"
+        },
+
+    "ḙ":    {
+            "char": "ḙ",
+            "codepoint": "U+1e19",
+            "decimal": 7705,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX BELOW"
+        },
+
+    "é":    {
+            "char": "é",
+            "codepoint": "U+00e9",
+            "decimal": 233,            
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER E WITH ACUTE"
+        }, 
+        
+    "в":    {
+            "char": "в",
+            "codepoint": "U+0432",
+            "decimal": 1074,           
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER VE"
+        },   
+
+    "ẹ":    {
+            "char": "ẹ",
+            "codepoint": "U+1eb9",
+            "decimal": 7865,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER E WITH DOT BELOW"
+        },   
+
+    "ᶓ":    {
+            "char": "ᶓ",
+            "codepoint": "U+1d93",
+            "decimal": 7571,           
+            "lang": "Phonetic Extensions Supplement",
+            "name": "LATIN SMALL LETTER OPEN E WITH RETROFLEX HOOK"
+        }, 
+        
+    "ɞ":    {
+            "char": "ɞ",
+            "codepoint": "U+025e",
+            "decimal": 606,            
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER CLOSED REVERSED OPEN E"
+        }, 
+        
+    "ė":    {
+            "char": "ė",
+            "codepoint": "U+0117",
+            "decimal": 279,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER E WITH DOT ABOVE"
+        },
+
+    "ḛ":    {
+            "char": "ḛ",
+            "codepoint": "U+1e1b",
+            "decimal": 7707,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER E WITH TILDE BELOW"
+        },
+    
+    "ё":    {
+            "char": "ё",
+            "codepoint": "U+0451",
+            "decimal": 1105,           
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER IO"
+        },
+
+    "ὲ":    {
+            "char": "ὲ",
+            "codepoint": "U+1f72",
+            "decimal": 8050,            
+            "lang": "Greek Extended",
+            "name": "GREEK SMALL LETTER EPSILON WITH VARIA"
+        },
+
+    "ẽ":    {
+            "char": "ẽ",
+            "codepoint": "U+1ebd",
+            "decimal": 7869,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER E WITH TILDE"
+        },
+
+    "è":    {
+            "char": "è",
+            "codepoint": "U+00e8",
+            "decimal": 232,            
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER E WITH GRAVE"
+        },
+
+    "ɘ":    {
+            "char": "ɘ",
+            "codepoint": "U+0258",
+            "decimal": 600,           
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER REVERSED E"
+        },
+
+    "ě":    {
+            "char": "ě",
+            "codepoint": "U+011b",
+            "decimal": 283,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER E WITH CARON"
+        },
+
+    "ε":   {
+            "char": "ε",
+            "codepoint": "U+03b5",
+            "decimal": 949,           
+            "lang": "Greek and Coptic",
+            "name": "GREEK SMALL LETTER EPSILON"
+        },
+    
+    "ͼ":    {
+            "char": "ͼ",
+            "codepoint": "U+037c",
+            "decimal": 892,            
+            "lang": "Greek and Coptic",
+            "name": "GREEK SMALL DOTTED LUNATE SIGMA SYMBOL"
+        },
+
+    "ę":   {
+            "char": "ę",
+            "codepoint": "U+0119",
+            "decimal": 281,            
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER E WITH OGONEK"
+        },
+
+    "ԑ":    {
+            "char": "ԑ",
+            "codepoint": "U+0511",
+            "decimal": 1297,           
+            "lang": "Cyrillic Supplement",
+            "name": "CYRILLIC SMALL LETTER REVERSED ZE"
+        },    
+
+    "ᶒ":    {
+            "char": "ᶒ",
+            "codepoint": "U+1d92",
+            "decimal": 7570,            
+            "lang": "Phonetic Extensions Supplement",
+            "name": "LATIN SMALL LETTER E WITH RETROFLEX HOOK"
+        },
+     
+    "ê":    {
+            "char": "ê",
+            "codepoint": "U+00ea",
+            "decimal": 234,           
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX"
+        },
+
+    "ѐ":    {
+            "char": "ѐ",
+            "codepoint": "U+0450",
+            "decimal": 1104,           
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER IE WITH GRAVE"
+        },
+
+    "ë":   {
+            "char": "ë",
+            "codepoint": "U+00eb",
+            "decimal": 235,           
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER E WITH DIAERESIS"
+        },    
+
+    "ệ":    {
+            "char": "ệ",
+            "codepoint": "U+1ec7",
+            "decimal": 7879,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER E WITH CIRCUMFLEX AND DOT BELOW"
+        },
+    
+    "ȩ":    {
+            "char": "ȩ",
+            "codepoint": "U+0229",
+            "decimal": 553,            
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER E WITH CEDILLA"
+        },
+        
+    "ƒ":  {
+            "char": "ƒ",
+            "codepoint": "U+0192",
+            "decimal": 402,           
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER F WITH HOOK"
+        },
+
+    "ꬵ":    {
+            "char": "ꬵ",
+            "codepoint": "U+ab35",
+            "decimal": 43829,            
+            "lang": "Latin Extended-E",
+            "name": "LATIN SMALL LETTER LENIS F"
+        },
+
+    "ʃ":    {
+            "char": "ʃ",
+            "codepoint": "U+0283",
+            "decimal": 643,          
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER ESH"
+        },
+
+    "ẜ":    {
+            "char": "ẜ",
+            "codepoint": "U+1e9c",
+            "decimal": 7836,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER LONG S WITH DIAGONAL STROKE"
+        },
+
+    "ḟ":    {
+            "char": "ḟ",
+            "codepoint": "U+1e1f",
+            "decimal": 7711,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER F WITH DOT ABOVE"
+        },
+
+    "ᶂ":    {
+            "char": "ᶂ",
+            "codepoint": "U+1d82",
+            "decimal": 7554,           
+            "lang": "Phonetic Extensions Supplement",
+            "name": "LATIN SMALL LETTER F WITH PALATAL HOOK"
+        },
+
+    "ᵮ":    {
+            "char": "ᵮ",
+            "codepoint": "U+1d6e",
+            "decimal": 7534,        
+            "lang": "Phonetic Extensions",
+            "name": "LATIN SMALL LETTER F WITH MIDDLE TILDE"
+        },
+
+    "ꞙ":    {
+            "char": "ꞙ",
+            "codepoint": "U+a799",
+            "decimal": 42905,          
+            "lang": "Latin Extended-D",
+            "name": "LATIN SMALL LETTER F WITH STROKE"
+        },
+
+    "ꝭ":    {
+            "char": "ꝭ",
+            "codepoint": "U+a76d",
+            "decimal": 42861,            
+            "lang": "Latin Extended-D",
+            "name": "LATIN SMALL LETTER IS"
+        },
+
+    "ḡ":    {
+            "char": "ḡ",
+            "codepoint": "U+1e21",
+            "decimal": 7713,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER G WITH MACRON"
+        },
+
+    "ǵ":    {
+            "char": "ǵ",
+            "codepoint": "U+01f5",
+            "decimal": 501,            
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER G WITH ACUTE"
+        },
+
+    "ǧ":    {
+            "char": "ǧ",
+            "codepoint": "U+01e7",
+            "decimal": 487,            
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER G WITH CARON"
+        },
+
+    "ꞡ":   {
+            "char": "ꞡ",
+            "codepoint": "U+a7a1",
+            "decimal": 42913,           
+            "lang": "Latin Extended-D",
+            "name": "LATIN SMALL LETTER G WITH OBLIQUE STROKE"
+        },
+
+    "ĝ":    {
+            "char": "ĝ",
+            "codepoint": "U+011d",
+            "decimal": 285,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER G WITH CIRCUMFLEX"
+        },
+
+    "ģ":    {
+            "char": "ģ",
+            "codepoint": "U+0123",
+            "decimal": 291,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER G WITH CEDILLA"
+        },
+
+    "ǥ":   {
+            "char": "ǥ",
+            "codepoint": "U+01e5",
+            "decimal": 485,           
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER G WITH STROKE"
+        },
+
+    "ġ":    {
+            "char": "ġ",
+            "codepoint": "U+0121",
+            "decimal": 289,            
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER G WITH DOT ABOVE"
+        },
+
+    "ћ": {
+            "char": "ћ",
+            "codepoint": "U+045b",
+            "decimal": 1115,           
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER TSHE"
+        },
+
+    "ħ":    {
+            "char": "ħ",
+            "codepoint": "U+0127",
+            "decimal": 295,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER H WITH STROKE"
+        },
+
+    "ђ":    {
+            "char": "ђ",
+            "codepoint": "U+0452",
+            "decimal": 1106,            
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER DJE"
+        },
+
+    "ꞕ":    {
+            "char": "ꞕ",
+            "codepoint": "U+a795",
+            "decimal": 42901,           
+            "lang": "Latin Extended-D",
+            "name": "LATIN SMALL LETTER H WITH PALATAL HOOK"
+        },
+
+    "ḩ":    {
+            "char": "ḩ",
+            "codepoint": "U+1e29",
+            "decimal": 7721,          
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER H WITH CEDILLA"
+        },  
+
+    "ḣ":    {
+            "char": "ḣ",
+            "codepoint": "U+1e23",
+            "decimal": 7715,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER H WITH DOT ABOVE"
+        },
+    
+    "ẖ":    {
+            "char": "ẖ",
+            "codepoint": "U+1e96",
+            "decimal": 7830,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER H WITH LINE BELOW"
+        },
+
+    "ḧ": {
+            "char": "ḧ",
+            "codepoint": "U+1e27",
+            "decimal": 7719,      
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER H WITH DIAERESIS"
+        },
+
+    "ĥ":  {
+            "char": "ĥ",
+            "codepoint": "U+0125",
+            "decimal": 293,            
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER H WITH CIRCUMFLEX"
+        },
+
+    "ḥ":    {
+            "char": "ḥ",
+            "codepoint": "U+1e25",
+            "decimal": 7717,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER H WITH DOT BELOW"
+        },
+
+    "ի":    {
+            "char": "ի",
+            "codepoint": "U+056b",
+            "decimal": 1387,           
+            "lang": "Armenian",
+            "name": "ARMENIAN SMALL LETTER INI"
+        },
+
+    "ꜧ":    {
+            "char": "ꜧ",
+            "codepoint": "U+a727",
+            "decimal": 42791,           
+            "lang": "Latin Extended-D",
+            "name": "LATIN SMALL LETTER HENG"
+        },
+
+    "ɦ":   {
+            "char": "ɦ",
+            "codepoint": "U+0266",
+            "decimal": 614,           
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER H WITH HOOK"
+        },
+
+    "ɨ":    {
+            "char": "ɨ",
+            "codepoint": "U+0268",
+            "decimal": 616,            
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER I WITH STROKE"
+        },
+
+    "ḭ":    {
+            "char": "ḭ",
+            "codepoint": "U+1e2d",
+            "decimal": 7725,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER I WITH TILDE BELOW"
+        },
+
+    "і":    {
+            "char": "і",
+            "codepoint": "U+0456",
+            "decimal": 1110,            
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I"
+        },
+
+    "ᶖ":    {
+            "char": "ᶖ",
+            "codepoint": "U+1d96",
+            "decimal": 7574,           
+            "lang": "Phonetic Extensions Supplement",
+            "name": "LATIN SMALL LETTER I WITH RETROFLEX HOOK"
+        },
+
+    "ǐ":    {
+            "char": "ǐ",
+            "codepoint": "U+01d0",
+            "decimal": 464,          
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER I WITH CARON"
+        },
+
+    "î":    {
+            "char": "î",
+            "codepoint": "U+00ee",
+            "decimal": 238,            
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER I WITH CIRCUMFLEX"
+        },
+
+    "ı":    {
+            "char": "ı",
+            "codepoint": "U+0131",
+            "decimal": 305,            
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER DOTLESS I"
+        },
+
+    "ĩ":    {
+            "char": "ĩ",
+            "codepoint": "U+0129",
+            "decimal": 297,         
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER I WITH TILDE"
+        },
+
+    "í":    {
+            "char": "í",
+            "codepoint": "U+00ed",
+            "decimal": 237,            
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER I WITH ACUTE"
+        },
+
+    "ỉ":    {
+            "char": "ỉ",
+            "codepoint": "U+1ec9",
+            "decimal": 7881,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER I WITH HOOK ABOVE"
+        },
+
+    "ɪ":    {
+            "char": "ɪ",
+            "codepoint": "U+026a",
+            "decimal": 618,           
+            "lang": "IPA Extensions",
+            "name": "LATIN LETTER SMALL CAPITAL I"
+        },
+
+    "į":    {           
+            "char": "į",
+            "codepoint": "U+012f",
+            "decimal": 303,            
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER I WITH OGONEK"
+        },
+
+    "ì":    {          
+            "char": "ì",
+            "codepoint": "U+00ec",
+            "decimal": 236,            
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER I WITH GRAVE"
+        },
+
+    "ị" :   {          
+            "char": "ị",
+            "codepoint": "U+1ecb",
+            "decimal": 7883,          
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER I WITH DOT BELOW"
+        },
+
+    "ï":    {      
+            "char": "ï",
+            "codepoint": "U+00ef",
+            "decimal": 239,           
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER I WITH DIAERESIS"
+        },
+
+    "ī":    {        
+            "char": "ī",
+            "codepoint": "U+012b",
+            "decimal": 299,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER I WITH MACRON"
+        },
+
+    "ḯ":    {     
+            "char": "ḯ",
+            "codepoint": "U+1e2f",
+            "decimal": 7727,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER I WITH DIAERESIS AND ACUTE"
+        },
+
+    "ї":    {            
+            "char": "ї",
+            "codepoint": "U+0457",
+            "decimal": 1111,           
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER YI"
+        },
+
+    "ɩ":{
+            "char":"ɩ",
+            "codepoint": "U+0269",
+            "decimal": 617,           
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER IOTA"
+        } ,   
+
+    "ј":    {
+            "char": "ј",
+            "codepoint": "U+0458",
+            "decimal": 1112,           
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER JE"
+        },
+
+    "ĵ":    {            
+            "char": "ĵ",
+            "codepoint": "U+0135",
+            "decimal": 309,          
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER J WITH CIRCUMFLEX"
+        },
+    
+    "յ":    {          
+            "char": "յ",
+            "codepoint": "U+0575",
+            "decimal": 1397,           
+            "lang": "Armenian",
+            "name": "ARMENIAN SMALL LETTER YI"
+        },
+   
+    "ɉ":    {        
+            "char": "ɉ",
+            "codepoint": "U+0249",
+            "decimal": 585,           
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER J WITH STROKE"
+        },
+    
+    "ȷ":    {         
+            "char": "ȷ",
+            "codepoint": "U+0237",
+            "decimal": 567,            
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER DOTLESS J"
+        },
+    
+    "ǰ":    {          
+            "char": "ǰ",
+            "codepoint": "U+01f0",
+            "decimal": 496,           
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER J WITH CARON"
+        },
+
+    "ɟ":    {       
+            "char": "ɟ",
+            "codepoint": "U+025f",
+            "decimal": 607,            
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER DOTLESS J WITH STROKE"
+        },
+    
+    "ϳ":    {
+            "char": "ϳ",
+            "codepoint": "U+03f3",
+            "decimal": 1011,            
+            "lang": "Greek and Coptic",
+            "name": "GREEK LETTER YOT"
+        },
+    
+    "ʝ":    {           
+            "char": "ʝ",
+            "codepoint": "U+029d",
+            "decimal": 669,            
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER J WITH CROSSED-TAIL"
+        },
+
+    "ᶄ":    {           
+            "char": "ᶄ",
+            "codepoint": "U+1d84",
+            "decimal": 7556,           
+            "lang": "Phonetic Extensions Supplement",
+            "name": "LATIN SMALL LETTER K WITH PALATAL HOOK"
+        },
+
+    "ⱪ":    {            
+            "char": "ⱪ",
+            "codepoint": "U+2c6a",
+            "decimal": 11370,            
+            "lang": "Latin Extended-C",
+            "name": "LATIN SMALL LETTER K WITH DESCENDER"
+        },
+
+    "ḱ":    {            
+            "char": "ḱ",
+            "codepoint": "U+1e31",
+            "decimal": 7729,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER K WITH ACUTE"
+        },
+
+    "ꝁ":    {            
+            "char": "ꝁ",
+            "codepoint": "U+a741",
+            "decimal": 42817,            
+            "lang": "Latin Extended-D",
+            "name": "LATIN SMALL LETTER K WITH STROKE"
+        },
+
+    "ԟ":    {
+            "char": "ԟ",
+            "codepoint": "U+051f",
+            "decimal": 1311,            
+            "lang": "Cyrillic Supplement",
+            "name": "CYRILLIC SMALL LETTER ALEUT KA"
+        },
+    
+    "ǩ":    {           
+            "char": "ǩ",
+            "codepoint": "U+01e9",
+            "decimal": 489,           
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER K WITH CARON"
+        },
+    
+    "ꝃ":    {            
+            "char": "ꝃ",
+            "codepoint": "U+a743",
+            "decimal": 42819,           
+            "lang": "Latin Extended-D",
+            "name": "LATIN SMALL LETTER K WITH DIAGONAL STROKE"
+        },
+    
+    "к":    {            
+            "char": "к",
+            "codepoint": "U+043a",
+            "decimal": 1082,           
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER KA"
+        },
+        
+    "қ":    {           
+            "char": "қ",
+            "codepoint": "U+049b",
+            "decimal": 1179,           
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER KA WITH DESCENDER"
+        },
+    
+    "ķ":    {           
+            "char": "ķ",
+            "codepoint": "U+0137",
+            "decimal": 311,            
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER K WITH CEDILLA"
+        },
+    
+    "ḳ":    {           
+            "char": "ḳ",
+            "codepoint": "U+1e33",
+            "decimal": 7731,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER K WITH DOT BELOW"
+        },
+    
+    "ꝅ":    {            
+            "char": "ꝅ",
+            "codepoint": "U+a745",
+            "decimal": 42821,            
+            "lang": "Latin Extended-D",
+            "name": "LATIN SMALL LETTER K WITH STROKE AND DIAGONAL STROKE"
+        },
+    
+    "ꞣ":    {            
+            "char": "ꞣ",
+            "codepoint": "U+a7a3",
+            "decimal": 42915,            
+            "lang": "Latin Extended-D",
+            "name": "LATIN SMALL LETTER K WITH OBLIQUE STROKE"
+        },
+    
+    "ḵ":    {            
+            "char": "ḵ",
+            "codepoint": "U+1e35",
+            "decimal": 7733,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER K WITH LINE BELOW"
+        },
+    
+    "ƙ":    {            
+            "char": "ƙ",
+            "codepoint": "U+0199",
+            "decimal": 409,            
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER K WITH HOOK"
+        },
+
+    "ĸ":{
+            "char":"ĸ",
+            "codepoint": "U+0138",
+            "decimal": 312,            
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER KRA"
+    },
+
+    "ḹ":    {            
+            "char": "ḹ",
+            "codepoint": "U+1e39",
+            "decimal": 7737,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER L WITH DOT BELOW AND MACRON"
+        },
+
+    "ⱡ":    {            
+            "char": "ⱡ",
+            "codepoint": "U+2c61",
+            "decimal": 11361,           
+            "lang": "Latin Extended-C",
+            "name": "LATIN SMALL LETTER L WITH DOUBLE BAR"
+        },
+
+    "𐊦":    {
+            "char": "𐊦",
+            "codepoint": "U+102a6",
+            "decimal": 66214,            
+            "lang": "Carian",
+            "name": "CARIAN LETTER LD"
+        },
+    
+    "ꟾ":    {       
+            "char": "ꟾ",
+            "codepoint": "U+a7fe",
+            "decimal": 43006,           
+            "lang": "Latin Extended-D",
+            "name": "LATIN EPIGRAPHIC LETTER I LONGA"
+        },
+    
+    "𐊊":    {
+            "char": "𐊊",
+            "codepoint": "U+1028a",
+            "decimal": 66186,           
+            "lang": "Lycian",
+            "name": "LYCIAN LETTER J"
+        },
+    
+    "ᶅ":    {      
+            "char": "ᶅ",
+            "codepoint": "U+1d85",
+            "decimal": 7557,           
+            "lang": "Phonetic Extensions Supplement",
+            "name": "LATIN SMALL LETTER L WITH PALATAL HOOK"
+        },
+    
+    "ľ":    {          
+            "char": "ľ",
+            "codepoint": "U+013e",
+            "decimal": 318,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER L WITH CARON"
+        },
+    
+    "𐊈":    {
+            "char": "𐊈",
+            "codepoint": "U+10288",
+            "decimal": 66184,           
+            "lang": "Lycian",
+            "name": "LYCIAN LETTER Z"
+        },
+
+    "ɫ":    {           
+            "char": "ɫ",
+            "codepoint": "U+026b",
+            "decimal": 619,           
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER L WITH MIDDLE TILDE"
+        },
+    
+    "ļ":    {            
+            "char": "ļ",
+            "codepoint": "U+013c",
+            "decimal": 316,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER L WITH CEDILLA"
+        },
+    
+    "ł":    {            
+            "char": "ł",
+            "codepoint": "U+0142",
+            "decimal": 322,            
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER L WITH STROKE"
+        },  
+        
+    "ꝉ":    {
+            "char": "ꝉ",
+            "codepoint": "U+a749",
+            "decimal": 42825,            
+            "lang": "Latin Extended-D",
+            "name": "LATIN SMALL LETTER L WITH HIGH STROKE"
+        },
+    
+    "ḷ":    {         
+            "char": "ḷ",
+            "codepoint": "U+1e37",
+            "decimal": 7735,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER L WITH DOT BELOW"
+        },   
+        
+    "ĺ":    {           
+            "char": "ĺ",
+            "codepoint": "U+013a",
+            "decimal": 314,            
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER L WITH ACUTE"
+        },
+    
+    "ȴ":    {
+            "char": "ȴ",
+            "codepoint": "U+0234",
+            "decimal": 564,          
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER L WITH CURL"
+        },
+    
+    "ḽ":    {           
+            "char": "ḽ",
+            "codepoint": "U+1e3d",
+            "decimal": 7741,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER L WITH CIRCUMFLEX BELOW"
+        },
+    
+    "ӏ":    {
+            "char": "ӏ",
+            "codepoint": "U+04cf",
+            "decimal": 1231,           
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER PALOCHKA"
+        },
+    
+    "𐌉":    {
+            "char": "𐌉",
+            "codepoint": "U+10309",
+            "decimal": 66313,           
+            "lang": "Old Italic",
+            "name": "OLD ITALIC LETTER I"
+        },
+    
+    "ḻ":    {            
+            "char": "ḻ",
+            "codepoint": "U+1e3b",
+            "decimal": 7739,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER L WITH LINE BELOW"
+        },
+    
+    "ꓕ":    {
+            "char": "ꓕ",
+            "codepoint": "U+a4d5",
+            "decimal": 42197,            
+            "lang": "Lisu",
+            "name": "LISU LETTER THA"
+        },
+    
+    "ꓲ":    {
+            "char": "ꓲ",
+            "codepoint": "U+a4f2",
+            "decimal": 42226,           
+            "lang": "Lisu",
+            "name": "LISU LETTER I"
+        },
+    
+    "ɭ":    {
+            "char": "ɭ",
+            "codepoint": "U+026d",
+            "decimal": 621,            
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER L WITH RETROFLEX HOOK"
+        },
+    
+    "ƚ":    {            
+            "char": "ƚ",
+            "codepoint": "U+019a",
+            "decimal": 410,           
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER L WITH BAR"
+        },
+    
+    "ḿ":    {           
+            "char": "ḿ",
+            "codepoint": "U+1e3f",
+            "decimal": 7743,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER M WITH ACUTE"
+        },
+    
+    "ʍ":    {            
+            "char": "ʍ",
+            "codepoint": "U+028d",
+            "decimal": 653,           
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER TURNED W"
+        },
+
+    "ṃ":    {            
+            "char": "ṃ",
+            "codepoint": "U+1e43",
+            "decimal": 7747,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER M WITH DOT BELOW"
+        },
+    
+    "ɱ":    {            
+            "char": "ɱ",
+            "codepoint": "U+0271",
+            "decimal": 625,           
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER M WITH HOOK"
+        },
+
+    "ṁ":    {            
+            "char": "ṁ",
+            "codepoint": "U+1e41",
+            "decimal": 7745,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER M WITH DOT ABOVE"
+        },
+
+    "ἠ":   {
+            "char": "ἠ",
+            "codepoint": "U+1f20",
+            "decimal": 7968,           
+            "lang": "Greek Extended",
+            "name": "GREEK SMALL LETTER ETA WITH PSILI"
+        },
+
+    "ή":    {
+            "char": "ή",
+            "codepoint": "U+03ae",
+            "decimal": 942,            
+            "lang": "Greek and Coptic",
+            "name": "GREEK SMALL LETTER ETA WITH TONOS"
+        },
+
+    "ȵ":    {
+            "char": "ȵ",
+            "codepoint": "U+0235",
+            "decimal": 565,            
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER N WITH CURL"
+        },
+
+    "ŋ":    {
+            "char": "ŋ",
+            "codepoint": "U+014b",
+            "decimal": 331,            
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER ENG"
+        },
+    
+    "ņ":    {
+            "char": "ņ",
+            "codepoint": "U+0146",
+            "decimal": 326,            
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER N WITH CEDILLA"
+        },
+    
+    "ň":    {
+            "char": "ň",
+            "codepoint": "U+0148",
+            "decimal": 328,            
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER N WITH CARON"
+        },
+    
+    "ր":    {
+            "char": "ր",
+            "codepoint": "U+0580",
+            "decimal": 1408,            
+            "lang": "Armenian",
+            "name": "ARMENIAN SMALL LETTER REH"
+        },
+    
+    "ᶇ":    {
+            "char": "ᶇ",
+            "codepoint": "U+1d87",
+            "decimal": 7559,           
+            "lang": "Phonetic Extensions Supplement",
+            "name": "LATIN SMALL LETTER N WITH PALATAL HOOK"
+        },
+    
+    "𐍀":    {
+            "char": "𐍀",
+            "codepoint": "U+10340",
+            "decimal": 66368,            
+            "lang": "Gothic",
+            "name": "GOTHIC LETTER PAIRTHRA"
+        },
+
+    "ṋ":    {
+            "char": "ṋ",
+            "codepoint": "U+1e4b",
+            "decimal": 7755,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER N WITH CIRCUMFLEX BELOW"
+        },
+
+    "ƞ":    {
+            "char": "ƞ",
+            "codepoint": "U+019e",
+            "decimal": 414,           
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER N WITH LONG RIGHT LEG"
+        },
+    
+    "ñ":    {
+            "char": "ñ",
+            "codepoint": "U+00f1",
+            "decimal": 241,            
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER N WITH TILDE"
+        },
+
+    "ὴ":    {
+            "char": "ὴ",
+            "codepoint": "U+1f74",
+            "decimal": 8052,            
+            "lang": "Greek Extended",
+            "name": "GREEK SMALL LETTER ETA WITH VARIA"
+        },
+
+    "ո":    {
+            "char": "ո",
+            "codepoint": "U+0578",
+            "decimal": 1400,           
+            "lang": "Armenian",
+            "name": "ARMENIAN SMALL LETTER VO"
+        },
+    
+    "ń":    {
+            "char": "ń",
+            "codepoint": "U+0144",
+            "decimal": 324,            
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER N WITH ACUTE"
+        },
+    
+    "ṅ":    {
+            "char": "ṅ",
+            "codepoint": "U+1e45",
+            "decimal": 7749,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER N WITH DOT ABOVE"
+        },
+    
+    "п":    {
+            "char": "п",
+            "codepoint": "U+043f",
+            "decimal": 1087,            
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER PE"
+        },
+        
+    "ṉ":    {
+            "char": "ṉ",
+            "codepoint": "U+1e49",
+            "decimal": 7753,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER N WITH LINE BELOW"
+        },
+    
+    "ꞥ":    {
+            "char": "ꞥ",
+            "codepoint": "U+a7a5",
+            "decimal": 42917,            
+            "lang": "Latin Extended-D",
+            "name": "LATIN SMALL LETTER N WITH OBLIQUE STROKE"
+        },
+    
+    "ṇ":    {
+            "char": "ṇ",
+            "codepoint": "U+1e47",
+            "decimal": 7751,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER N WITH DOT BELOW"
+        },
+    
+    "ꬻ":    {
+            "char": "ꬻ",
+            "codepoint": "U+ab3b",
+            "decimal": 43835,            
+            "lang": "Latin Extended-E",
+            "name": "LATIN SMALL LETTER N WITH CROSSED-TAIL"
+        },
+    
+    "ἡ":    {
+            "char": "ἡ",
+            "codepoint": "U+1f21",
+            "decimal": 7969,            
+            "lang": "Greek Extended",
+            "name": "GREEK SMALL LETTER ETA WITH DASIA"
+        },
+    
+    "η":    {
+            "char": "η",
+            "codepoint": "U+03b7",
+            "decimal": 951,           
+            "lang": "Greek and Coptic",
+            "name": "GREEK SMALL LETTER ETA"
+        },
+
+    "ǹ":    {
+            "char": "ǹ",
+            "codepoint": "U+01f9",
+            "decimal": 505,           
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER N WITH GRAVE"
+        },
+    
+    "𐓣":    {
+            "char": "𐓣",
+            "codepoint": "U+104e3",
+            "decimal": 66787,           
+            "lang": "Osage",
+            "name": "Osage Small Letter I"
+        },
+
+    "ó":    {
+            "char": "ó",
+            "codepoint": "U+00f3",
+            "decimal": 243,            
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER O WITH ACUTE"
+        },
+
+    "ό":    {
+            "char": "ό",
+            "codepoint": "U+03cc",
+            "decimal": 972,            
+            "lang": "Greek and Coptic",
+            "name": "GREEK SMALL LETTER OMICRON WITH TONOS"
+        },
+
+    "ꙩ":    {
+            "char": "ꙩ",
+            "codepoint": "U+a669",
+            "decimal": 42601,            
+            "lang": "Cyrillic Extended-B",
+            "name": "CYRILLIC SMALL LETTER MONOCULAR O"
+        },
+    
+    "ȱ":    {
+            "char": "ȱ",
+            "codepoint": "U+0231",
+            "decimal": 561,           
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER O WITH DOT ABOVE AND MACRON"
+        },
+
+    "õ":    {
+            "char": "õ",
+            "codepoint": "U+00f5",
+            "decimal": 245,           
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER O WITH TILDE"
+        },
+
+    "ө":    {
+            "char": "ө",
+            "codepoint": "U+04e9",
+            "decimal": 1257,            
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER BARRED O"
+        },
+
+    "ə":    {
+            "char": "ə",
+            "codepoint": "U+0259",
+            "decimal": 601,            
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER SCHWA"
+        },
+
+    "ԍ":    {
+            "char": "ԍ",
+            "codepoint": "U+050d",
+            "decimal": 1293,            
+            "lang": "Cyrillic Supplement",
+            "name": "CYRILLIC SMALL LETTER KOMI SJE"
+        },
+
+    "ⳳ":    {
+            "char": "ⳳ",
+            "codepoint": "U+2cf3",
+            "decimal": 11507,            
+            "lang": "Coptic",
+            "name": "COPTIC SMALL LETTER BOHAIRIC KHEI"
+        },
+    
+    "ὀ":    {
+            "black_pixels": 24,
+            "char": "ὀ",
+            "codepoint": "U+1f40",
+            "decimal": 8000,           
+            "lang": "Greek Extended",
+            "name": "GREEK SMALL LETTER OMICRON WITH PSILI"
+        },
+    
+    "ỏ":    {
+            "char": "ỏ",
+            "codepoint": "U+1ecf",
+            "decimal": 7887,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER O WITH HOOK ABOVE"
+        },
+    
+    "ຄ":    {
+            "char": "ຄ",
+            "codepoint": "U+0e84",
+            "decimal": 3716,           
+            "lang": "Lao",
+            "name": "LAO LETTER KHO TAM"
+        },
+
+    "ò":    {
+            "char": "ò",
+            "codepoint": "U+00f2",
+            "decimal": 242,           
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER O WITH GRAVE"
+        },
+    
+    "ȯ":    {
+            "char": "ȯ",
+            "codepoint": "U+022f",
+            "decimal": 559,           
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER O WITH DOT ABOVE"
+        },
+
+    "ő":    {
+            "char": "ő",
+            "codepoint": "U+0151",
+            "decimal": 337,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER O WITH DOUBLE ACUTE"
+        },
+
+    "ὁ":    {
+            "char": "ὁ",
+            "codepoint": "U+1f41",
+            "decimal": 8001,          
+            "lang": "Greek Extended",
+            "name": "GREEK SMALL LETTER OMICRON WITH DASIA"
+        },
+
+    "𐍈":    {
+            "black_pixels": 24,
+            "char": "𐍈",
+            "codepoint": "U+10348",
+            "decimal": 66376,          
+            "lang": "Gothic",
+            "name": "GOTHIC LETTER HWAIR"
+        },
+
+    "ɵ":    {
+            "char": "ɵ",
+            "codepoint": "U+0275",
+            "decimal": 629,          
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER BARRED O"
+        },
+    
+    "ō":    {
+            "char": "ō",
+            "codepoint": "U+014d",
+            "decimal": 333,          
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER O WITH MACRON"
+        },
+
+    "ꝋ":    {
+            "char": "ꝋ",
+            "codepoint": "U+a74b",
+            "decimal": 42827,           
+            "lang": "Latin Extended-D",
+            "name": "LATIN SMALL LETTER O WITH LONG STROKE OVERLAY"
+        },
+
+    "ᴏ":    {
+            "char": "ᴏ",
+            "codepoint": "U+1d0f",
+            "decimal": 7439,          
+            "lang": "Phonetic Extensions",
+            "name": "LATIN LETTER SMALL CAPITAL O"
+        },
+    
+    "ȍ":    {
+            "char": "ȍ",
+            "codepoint": "U+020d",
+            "decimal": 525,         
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER O WITH DOUBLE GRAVE"
+        },
+
+    "ô":    {
+            "char": "ô",
+            "codepoint": "U+00f4",
+            "decimal": 244,          
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX"
+        },
+
+    "ʚ":    {
+            "char": "ʚ",
+            "codepoint": "U+029a",
+            "decimal": 666,        
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER CLOSED OPEN E"
+        },
+    
+    "ὸ":    {
+            "char": "ὸ",
+            "codepoint": "U+1f78",
+            "decimal": 8056,      
+            "lang": "Greek Extended",
+            "name": "GREEK SMALL LETTER OMICRON WITH VARIA"
+        },
+
+    "ǫ":    {
+            "char": "ǫ",
+            "codepoint": "U+01eb",
+            "decimal": 491,            
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER O WITH OGONEK"
+        },
+
+    "օ":    {
+            "char": "օ",
+            "codepoint": "U+0585",
+            "decimal": 1413,            
+            "lang": "Armenian",
+            "name": "ARMENIAN SMALL LETTER OH"
+        },
+    
+    "໐":    {
+            "char": "໐",
+            "codepoint": "U+0ed0",
+            "decimal": 3792,            
+            "lang": "Lao",
+            "name": "LAO DIGIT ZERO"
+        },
+    
+    "ӧ":    {
+            "char": "ӧ",
+            "codepoint": "U+04e7",
+            "decimal": 1255,           
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER O WITH DIAERESIS"
+        },
+
+    "ö":    {
+            "char": "ö",
+            "codepoint": "U+00f6",
+            "decimal": 246,            
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER O WITH DIAERESIS"
+        },
+    
+    "ǒ":    {
+            "char": "ǒ",
+            "codepoint": "U+01d2",
+            "decimal": 466,            
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER O WITH CARON"
+        },
+
+    "ộ":    {
+            "char": "ộ",
+            "codepoint": "U+1ed9",
+            "decimal": 7897,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER O WITH CIRCUMFLEX AND DOT BELOW"
+        },
+
+    "ȫ":    {
+            "char": "ȫ",
+            "codepoint": "U+022b",
+            "decimal": 555,           
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER O WITH DIAERESIS AND MACRON"
+        },
+
+    "ọ":    {
+            "char": "ọ",
+            "codepoint": "U+1ecd",
+            "decimal": 7885,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER O WITH DOT BELOW"
+        },
+     
+    "ϙ":   {
+            "char": "ϙ",
+            "codepoint": "U+03d9",
+            "decimal": 985,            
+            "lang": "Greek and Coptic",
+            "name": "GREEK SMALL LETTER ARCHAIC KOPPA"
+        },
+
+    "ο":    {
+            "char": "ο",
+            "codepoint": "U+03bf",
+            "decimal": 959,            
+            "lang": "Greek and Coptic",
+            "name": "GREEK SMALL LETTER OMICRON"
+        },
+
+    "о":    {
+            "char": "о",
+            "codepoint": "U+043e",
+            "decimal": 1086,            
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER O"
+        },
+
+    "ơ":{
+            "char":"ơ",
+            "codepoint": "U+01A1",
+            "decimal": 417	,            
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER O WITH HORN"
+        },
+
+    "р":    {
+            "char": "р",
+            "codepoint": "U+0440",
+            "decimal": 1088,           
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER ER"
+        },
+    "ṗ":{
+            "char": "ṗ",
+            "codepoint": "U+1e57",
+            "decimal": 7767,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER P WITH DOT ABOVE"
+        },
+    
+    "ҏ":    {
+            "char": "ҏ",
+            "codepoint": "U+048f",
+            "decimal": 1167,            
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER ER WITH TICK"
+        },
+
+    "ṕ":    {
+            "char": "ṕ",
+            "codepoint": "U+1e55",
+            "decimal": 7765,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER P WITH ACUTE"
+        },
+
+    "ɒ":    {
+            "char": "ɒ",
+            "codepoint": "U+0252",
+            "decimal": 594,           
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER TURNED ALPHA"
+        },
+
+    "ᴘ":    {
+            "char": "ᴘ",
+            "codepoint": "U+1d18",
+            "decimal": 7448,           
+            "lang": "Phonetic Extensions",
+            "name": "LATIN LETTER SMALL CAPITAL P"
+        },
+
+    "ꝑ":    {
+            "char": "ꝑ",
+            "codepoint": "U+a751",
+            "decimal": 42833,           
+            "lang": "Latin Extended-D",
+            "name": "LATIN SMALL LETTER P WITH STROKE THROUGH DESCENDER"
+        },
+
+    "ρ":    {
+            "char": "ρ",
+            "codepoint": "U+03c1",
+            "decimal": 961,            
+            "lang": "Greek and Coptic",
+            "name": "GREEK SMALL LETTER RHO"
+        },
+
+    "ᴩ":    {
+            "char": "ᴩ",
+            "codepoint": "U+1d29",
+            "decimal": 7465,           
+            "lang": "Phonetic Extensions",
+            "name": "GREEK LETTER SMALL CAPITAL RHO"
+        },
+
+    "ƿ":{
+            "char":"ƿ",
+            "codepoint": "U+01F7",
+            "decimal": 503	,            
+            "lang": "Latin Extended-B",
+            "name": "LATIN CAPITAL LETTER WYNN"
+    },
+
+    "ꝗ":{
+            "char": "ꝗ",
+            "codepoint": "U+a757",
+            "decimal": 42839,            
+            "lang": "Latin Extended-D",
+            "name": "LATIN SMALL LETTER Q WITH STROKE THROUGH DESCENDER"
+        },
+
+    "ɑ":    {
+            "char": "ɑ",
+            "codepoint": "U+0251",
+            "decimal": 593,           
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER ALPHA"
+        },
+
+    "ԛ":    {
+            "char": "ԛ",
+            "codepoint": "U+051b",
+            "decimal": 1307,            
+            "lang": "Cyrillic Supplement",
+            "name": "CYRILLIC SMALL LETTER QA"
+        },
+    
+    "ꭤ":    {
+            "char": "ꭤ",
+            "codepoint": "U+ab64",
+            "decimal": 43876,            
+            "lang": "Latin Extended-E",
+            "name": "LATIN SMALL LETTER INVERTED ALPHA"
+        },
+
+    "ŗ":    {
+            "char": "ŗ",
+            "codepoint": "U+0157",
+            "decimal": 343,            
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER R WITH CEDILLA"
+        },
+    
+    "ꞧ":    {
+            "char": "ꞧ",
+            "codepoint": "U+a7a7",
+            "decimal": 42919,           
+            "lang": "Latin Extended-D",
+            "name": "LATIN SMALL LETTER R WITH OBLIQUE STROKE"
+        },
+    
+    "ṙ":    {
+            "char": "ṙ",
+            "codepoint": "U+1e59",
+            "decimal": 7769,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER R WITH DOT ABOVE"
+        },
+
+    "ɽ":    {
+            "char": "ɽ",
+            "codepoint": "U+027d",
+            "decimal": 637,           
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER R WITH TAIL"
+        },
+
+    "ɼ":    {
+            "char": "ɼ",
+            "codepoint": "U+027c",
+            "decimal": 636,            
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER R WITH LONG LEG"
+        },
+
+    "ṟ":    {
+            "char": "ṟ",
+            "codepoint": "U+1e5f",
+            "decimal": 7775,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER R WITH LINE BELOW"
+        },
+    
+    "г":    {
+            "char": "г",
+            "codepoint": "U+0433",
+            "decimal": 1075,           
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER GHE"
+        },
+
+    "ṝ":    {
+            "char": "ṝ",
+            "codepoint": "U+1e5d",
+            "decimal": 7773,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER R WITH DOT BELOW AND MACRON"
+        },
+    
+    "ᴦ":    {
+            "char": "ᴦ",
+            "codepoint": "U+1d26",
+            "decimal": 7462,            
+            "lang": "Phonetic Extensions",
+            "name": "GREEK LETTER SMALL CAPITAL GAMMA"
+        },
+
+    "𐑝":    {
+            "char": "𐑝",
+            "codepoint": "U+1045d",
+            "decimal": 66653,            
+            "lang": "Shavian",
+            "name": "SHAVIAN LETTER VOW"
+        },
+
+    "ř":    {
+            "char": "ř",
+            "codepoint": "U+0159",
+            "decimal": 345,            
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER R WITH CARON"
+        },
+
+    "ꭈ":    {
+            "char": "ꭈ",
+            "codepoint": "U+ab48",
+            "decimal": 43848,            
+            "lang": "Latin Extended-E",
+            "name": "LATIN SMALL LETTER DOUBLE R"
+        },
+
+    "ⲅ":    {
+            "char": "ⲅ",
+            "codepoint": "U+2c85",
+            "decimal": 11397,            
+            "lang": "Coptic",
+            "name": "COPTIC SMALL LETTER GAMMA"
+        },
+
+    "ɾ":    {
+            "char": "ɾ",
+            "codepoint": "U+027e",
+            "decimal": 638,            
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER R WITH FISHHOOK"
+        },
+
+    "ṛ":    {
+            "char": "ṛ",
+            "codepoint": "U+1e5b",
+            "decimal": 7771,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER R WITH DOT BELOW"
+        },
+     
+     "𐌲":   {
+            "char": "𐌲",
+            "codepoint": "U+10332",
+            "decimal": 66354,           
+            "lang": "Gothic",
+            "name": "GOTHIC LETTER GIBA"
+        },
+
+    "ȑ":    {
+            "char": "ȑ",
+            "codepoint": "U+0211",
+            "decimal": 529,           
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER R WITH DOUBLE GRAVE"
+        },
+
+    "ŕ":    {
+            "char": "ŕ",
+            "codepoint": "U+0155",
+            "decimal": 341,            
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER R WITH ACUTE"
+        },
+
+    "я":{
+            "char":"я",
+            "codepoint": "U+044F",
+            "decimal": 1103	,            
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER YA"
+
+        },
+
+    "ṣ":    {
+            "black_pixels": 19,
+            "char": "ṣ",
+            "codepoint": "U+1e63",
+            "decimal": 7779,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER S WITH DOT BELOW"
+        },
+
+    "𐍃":    {
+            "char": "𐍃",
+            "codepoint": "U+10343",
+            "decimal": 66371,            
+            "lang": "Gothic",
+            "name": "GOTHIC LETTER SAUIL"
+        },
+    
+    "ṥ":    {
+            "char": "ṥ",
+            "codepoint": "U+1e65",
+            "decimal": 7781,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER S WITH ACUTE AND DOT ABOVE"
+        },
+
+    "з": {
+            "char": "з",
+            "codepoint": "U+0437",
+            "decimal": 1079,            
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER ZE"
+        },
+    
+    "ѕ":    {
+            "char": "ѕ",
+            "codepoint": "U+0455",
+            "decimal": 1109,           
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER DZE"
+        },
+    
+    "ṩ":    {
+            "char": "ṩ",
+            "codepoint": "U+1e69",
+            "decimal": 7785,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER S WITH DOT BELOW AND DOT ABOVE"
+        },
+
+    "ś":    {
+            "char": "ś",
+            "codepoint": "U+015b",
+            "decimal": 347,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER S WITH ACUTE"
+        },
+    
+    "ʂ":    {
+            "char": "ʂ",
+            "codepoint": "U+0282",
+            "decimal": 642,           
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER S WITH HOOK"
+        },
+    
+    "š":    {
+            "char": "š",
+            "codepoint": "U+0161",
+            "decimal": 353,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER S WITH CARON"
+        },
+    
+    "ᶊ":    {
+            "char": "ᶊ",
+            "codepoint": "U+1d8a",
+            "decimal": 7562,           
+            "lang": "Phonetic Extensions Supplement",
+            "name": "LATIN SMALL LETTER S WITH PALATAL HOOK"
+        },
+    
+    "ṧ":    {
+            "char": "ṧ",
+            "codepoint": "U+1e67",
+            "decimal": 7783,          
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER S WITH CARON AND DOT ABOVE"
+        },
+    
+    "ŝ":    {
+            "char": "ŝ",
+            "codepoint": "U+015d",
+            "decimal": 349,          
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER S WITH CIRCUMFLEX"
+        },
+    
+    "ᵴ":    {
+            "char": "ᵴ",
+            "codepoint": "U+1d74",
+            "decimal": 7540,          
+            "lang": "Phonetic Extensions",
+            "name": "LATIN SMALL LETTER S WITH MIDDLE TILDE"
+        },
+    
+    "ș":    {
+            "char": "ș",
+            "codepoint": "U+0219",
+            "decimal": 537,           
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER S WITH COMMA BELOW"
+        },
+    
+    "ȿ":    {
+            "char": "ȿ",
+            "codepoint": "U+023f",
+            "decimal": 575,          
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER S WITH SWASH TAIL"
+        },
+
+    "ṡ":    {
+            "char": "ṡ",
+            "codepoint": "U+1e61",
+            "decimal": 7777,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER S WITH DOT ABOVE"
+        },
+    
+    "ꜱ":    {
+            "char": "ꜱ",
+            "codepoint": "U+a731",
+            "decimal": 42801,        
+            "lang": "Latin Extended-D",
+            "name": "LATIN LETTER SMALL CAPITAL S"
+        },
+
+    "ş":    {
+            "char": "ş",
+            "codepoint": "U+015f",
+            "decimal": 351,            
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER S WITH CEDILLA"
+        },
+    
+    "ᴈ":    {
+            "char": "ᴈ",
+            "codepoint": "U+1d08",
+            "decimal": 7432,           
+            "lang": "Phonetic Extensions",
+            "name": "LATIN SMALL LETTER TURNED OPEN E"
+        },
+
+    "ť":    {
+            "char": "ť",
+            "codepoint": "U+0165",
+            "decimal": 357,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER T WITH CARON"
+        },
+
+    "ʈ":    {
+            "char": "ʈ",
+            "codepoint": "U+0288",
+            "decimal": 648,            
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER T WITH RETROFLEX HOOK"
+        },
+    
+    "ȶ":    {
+            "char": "ȶ",
+            "codepoint": "U+0236",
+            "decimal": 566,           
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER T WITH CURL"
+        },
+    
+    "ƭ":    {
+            "char": "ƭ",
+            "codepoint": "U+01ad",
+            "decimal": 429,           
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER T WITH HOOK"
+        },
+
+    "ẗ":    {
+            "char": "ẗ",
+            "codepoint": "U+1e97",
+            "decimal": 7831,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER T WITH DIAERESIS"
+        },
+    
+    "ț":    {
+            "char": "ț",
+            "codepoint": "U+021b",
+            "decimal": 539,            
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER T WITH COMMA BELOW"
+        },
+
+    "ƫ":    {
+            "char": "ƫ",
+            "codepoint": "U+01ab",
+            "decimal": 427,            
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER T WITH PALATAL HOOK"
+        },
+    
+    "ţ":    {
+            "char": "ţ",
+            "codepoint": "U+0163",
+            "decimal": 355,            
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER T WITH CEDILLA"
+        },
+
+    "ṱ":    {
+            "char": "ṱ",
+            "codepoint": "U+1e71",
+            "decimal": 7793,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER T WITH CIRCUMFLEX BELOW"
+        },
+    
+    "ṭ":    {
+            "char": "ṭ",
+            "codepoint": "U+1e6d",
+            "decimal": 7789,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER T WITH DOT BELOW"
+        },
+
+    "ṫ":    {
+            "char": "ṫ",
+            "codepoint": "U+1e6b",
+            "decimal": 7787,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER T WITH DOT ABOVE"
+        },
+    
+    "ŧ":    {
+            "char": "ŧ",
+            "codepoint": "U+0167",
+            "decimal": 359,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER T WITH STROKE"
+        },
+    
+    "ṯ":    {
+            "char": "ṯ",
+            "codepoint": "U+1e6f",
+            "decimal": 7791,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER T WITH LINE BELOW"
+        },
+
+    "т":{
+            "char":"т",
+            "codepoint": "U+0442",
+            "decimal": 1090	,           
+            "lang": "Cyrilic",
+            "name": "CYRILLIC SMALL LETTER TE"
+        },
+    
+    "ụ":    {
+            "char": "ụ",
+            "codepoint": "U+1ee5",
+            "decimal": 7909,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER U WITH DOT BELOW"
+        },
+
+    "ṳ":    {
+            "char": "ṳ",
+            "codepoint": "U+1e73",
+            "decimal": 7795,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER U WITH DIAERESIS BELOW"
+        },
+    
+    "ü":    {
+            "char": "ü",
+            "codepoint": "U+00fc",
+            "decimal": 252,           
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER U WITH DIAERESIS"
+        },
+
+    "𞤭":    {
+            "char": "𞤭",
+            "codepoint": "U+1e92d",
+            "decimal": 125229,           
+            "lang": "Adlam",
+            "name": "Adlam Small Letter"
+        },
+
+    "ù":   {
+            "char": "ù",
+            "codepoint": "U+00f9",
+            "decimal": 249,            
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER U WITH GRAVE"
+        },
+    
+    "ǔ":    {
+            "char": "ǔ",
+            "codepoint": "U+01d4",
+            "decimal": 468,            
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER U WITH CARON"
+        },
+    
+    "ṷ":    {
+            "char": "ṷ",
+            "codepoint": "U+1e77",
+            "decimal": 7799,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER U WITH CIRCUMFLEX BELOW"
+        },
+    
+    "ᴜ":    {
+            "char": "ᴜ",
+            "codepoint": "U+1d1c",
+            "decimal": 7452,            
+            "lang": "Phonetic Extensions",
+            "name": "LATIN LETTER SMALL CAPITAL U"
+        },
+    
+    "ὺ":    {
+            "char": "ὺ",
+            "codepoint": "U+1f7a",
+            "decimal": 8058,           
+            "lang": "Greek Extended",
+            "name": "GREEK SMALL LETTER UPSILON WITH VARIA"
+        },
+    
+    "ů":    {
+            "char": "ů",
+            "codepoint": "U+016f",
+            "decimal": 367,            
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER U WITH RING ABOVE"
+        },
+    
+    "ꭎ":    {
+            "char": "ꭎ",
+            "codepoint": "U+ab4e",
+            "decimal": 43854,           
+            "lang": "Latin Extended-E",
+            "name": "LATIN SMALL LETTER U WITH SHORT RIGHT LEG"
+        },
+    
+    "ū":    {
+            "char": "ū",
+            "codepoint": "U+016b",
+            "decimal": 363,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER U WITH MACRON"
+        },
+    
+    "ų":    {
+            "char": "ų",
+            "codepoint": "U+0173",
+            "decimal": 371,         
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER U WITH OGONEK"
+        },
+
+    "ủ":    {
+            "char": "ủ",
+            "codepoint": "U+1ee7",
+            "decimal": 7911,          
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER U WITH HOOK ABOVE"
+        },
+
+    "ȕ":    {
+            "char": "ȕ",
+            "codepoint": "U+0215",
+            "decimal": 533,            
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER U WITH DOUBLE GRAVE"
+        },
+
+    "ɹ":    {
+            "char": "ɹ",
+            "codepoint": "U+0279",
+            "decimal": 633,            
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER TURNED R"
+        },
+
+    "ṵ":    {
+            "char": "ṵ",
+            "codepoint": "U+1e75",
+            "decimal": 7797,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER U WITH TILDE BELOW"
+        },
+    
+    "ű":    {
+            "char": "ű",
+            "codepoint": "U+0171",
+            "decimal": 369,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER U WITH DOUBLE ACUTE"
+        },
+    
+    "𐓶":    {
+            "char": "𐓶",
+            "codepoint": "U+104f6",
+            "decimal": 66806,           
+            "lang": "Osage",
+            "name": "OSAGE SMALL LETTER U"
+        },
+    
+    "ύ":    {
+            "char": "ύ",
+            "codepoint": "U+03cd",
+            "decimal": 973,            
+            "lang": "Greek and Coptic",
+            "name": "GREEK SMALL LETTER UPSILON WITH TONOS"
+        },
+    
+    "û":    {
+            "char": "û",
+            "codepoint": "U+00fb",
+            "decimal": 251,            
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER U WITH CIRCUMFLEX"
+        },
+
+    "ꞟ":    {
+            "char": "ꞟ",
+            "codepoint": "U+a79f",
+            "decimal": 42911,            
+            "lang": "Latin Extended-D",
+            "name": "LATIN SMALL LETTER VOLAPUK UE"
+        },
+    
+    "ú":    {
+            "char": "ú",
+            "codepoint": "U+00fa",
+            "decimal": 250,            
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER U WITH ACUTE"
+        },
+
+    "υ":    {
+            "char": "υ",
+            "codepoint": "U+03c5",
+            "decimal": 965,           
+            "lang": "Greek and Coptic",
+            "name": "GREEK SMALL LETTER UPSILON"
+        },
+    
+    "ṻ":    {
+            "char": "ṻ",
+            "codepoint": "U+1e7b",
+            "decimal": 7803,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER U WITH MACRON AND DIAERESIS"
+        },
+
+    "ц":    {
+            "char": "ц",
+            "codepoint": "U+0446",
+            "decimal": 1094,            
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER TSE"
+        },
+    
+    "ս":    {
+            "char": "ս",
+            "codepoint": "U+057d",
+            "decimal": 1405,            
+            "lang": "Armenian",
+            "name": "ARMENIAN SMALL LETTER SEH"
+        },
+    
+    "ũ":    {
+            "char": "ũ",
+            "codepoint": "U+0169",
+            "decimal": 361,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER U WITH TILDE"
+        },
+
+    "ᶌ":    {
+            "char": "ᶌ",
+            "codepoint": "U+1d8c",
+            "decimal": 7564,            
+            "lang": "Phonetic Extensions Supplement",
+            "name": "LATIN SMALL LETTER V WITH PALATAL HOOK"
+        },
+    
+    "ṽ":    {
+            "char": "ṽ",
+            "codepoint": "U+1e7d",
+            "decimal": 7805,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER V WITH TILDE"
+        },
+    
+    "ⱴ":    {
+            "char": "ⱴ",
+            "codepoint": "U+2c74",
+            "decimal": 11380,            
+            "lang": "Latin Extended-C",
+            "name": "LATIN SMALL LETTER V WITH CURL"
+        },
+
+    "ผ":    {
+            "char": "ผ",
+            "codepoint": "U+0e1c",
+            "decimal": 3612,            
+            "lang": "Thai",
+            "name": "THAI CHARACTER PHO PHUNG"
+        },
+    
+    "ẃ":    {
+            "char": "ẃ",
+            "codepoint": "U+1e83",
+            "decimal": 7811,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER W WITH ACUTE"
+        },
+    
+    "ẇ":    {
+            "char": "ẇ",
+            "codepoint": "U+1e87",
+            "decimal": 7815,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER W WITH DOT ABOVE"
+        },
+    
+    "ẅ":    {
+            "char": "ẅ",
+            "codepoint": "U+1e85",
+            "decimal": 7813,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER W WITH DIAERESIS"
+        },
+    
+    "ẉ":    {
+            "char": "ẉ",
+            "codepoint": "U+1e89",
+            "decimal": 7817,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER W WITH DOT BELOW"
+        },
+    
+    "ա":    {
+            "char": "ա",
+            "codepoint": "U+0561",
+            "decimal": 1377,           
+            "lang": "Armenian",
+            "name": "ARMENIAN SMALL LETTER AYB"
+        },
+    
+    "պ":    {
+            "char": "պ",
+            "codepoint": "U+057a",
+            "decimal": 1402,           
+            "lang": "Armenian",
+            "name": "ARMENIAN SMALL LETTER PEH"
+        },
+    
+    "ψ":    {
+            "char": "ψ",
+            "codepoint": "U+03c8",
+            "decimal": 968,           
+            "lang": "Greek and Coptic",
+            "name": "GREEK SMALL LETTER PSI"
+        },
+    
+    "𐐶":    {
+            "char": "𐐶",
+            "codepoint": "U+10436",
+            "decimal": 66614,            
+            "lang": "Deseret",
+            "name": "DESERET SMALL LETTER WU"
+        },
+    
+    "พ":    {
+            "char": "พ",
+            "codepoint": "U+0e1e",
+            "decimal": 3614,         
+            "lang": "Thai",
+            "name": "THAI CHARACTER PHO PHAN"
+        },
+
+    "ẘ":    {
+            "char": "ẘ",
+            "codepoint": "U+1e98",
+            "decimal": 7832,          
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER W WITH RING ABOVE"
+        },
+    
+    "ฝ":    {
+            "char": "ฝ",
+            "codepoint": "U+0e1d",
+            "decimal": 3613,           
+            "lang": "Thai",
+            "name": "THAI CHARACTER FO FA"
+        },
+    
+    "ŵ":    {
+            "char": "ŵ",
+            "codepoint": "U+0175",
+            "decimal": 373,          
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER W WITH CIRCUMFLEX"
+        },
+    
+    "ɯ":    {
+            "char": "ɯ",
+            "codepoint": "U+026f",
+            "decimal": 623,          
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER TURNED M"
+        },
+    
+    "𞤧":    {
+            "char": "𞤧",
+            "codepoint": "U+1e927",
+            "decimal": 125223,          
+            "lang": "Adlam",
+            "name": "unknown"
+        },
+    
+    "ш":    {
+            "char": "ш",
+            "codepoint": "U+0448",
+            "decimal": 1096,          
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER SHA"
+        },
+    
+    "ɰ":    {
+            "char": "ɰ",
+            "codepoint": "U+0270",
+            "decimal": 624,          
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER TURNED M WITH LONG LEG"
+        },
+    
+    "ꟺ":    {
+            "char": "ꟺ",
+            "codepoint": "U+a7fa",
+            "decimal": 43002,          
+            "lang": "Latin Extended-D",
+            "name": "LATIN LETTER SMALL CAPITAL TURNED M"
+        },
+    
+    "ԝ":    {
+            "char": "ԝ",
+            "codepoint": "U+051d",
+            "decimal": 1309,    
+            "lang": "Cyrillic Supplement",
+            "name": "CYRILLIC SMALL LETTER WE"
+        },
+    
+    "ẁ":    {
+            "char": "ẁ",
+            "codepoint": "U+1e81",
+            "decimal": 7809,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER W WITH GRAVE"
+        },
+    
+    "ω":    {
+            "char": "ω",
+            "codepoint": "U+03c9",
+            "decimal": 969,           
+            "lang": "Greek and Coptic",
+            "name": "GREEK SMALL LETTER OMEGA"
+        },
+
+    "ꝡ":    {
+            "char": "ꝡ",
+            "codepoint": "U+a761",
+            "decimal": 42849,           
+            "lang": "Latin Extended-D",
+            "name": "LATIN SMALL LETTER VY"
+        },
+    
+    "ฟ":    {
+            "char": "ฟ",
+            "codepoint": "U+0e1f",
+            "decimal": 3615,            
+            "lang": "Thai",
+            "name": "THAI CHARACTER FO FAN"
+        },
+
+    "𐍇":    {
+            "char": "𐍇",
+            "codepoint": "U+10347",
+            "decimal": 66375,            
+            "lang": "Gothic",
+            "name": "GOTHIC LETTER IGGWS"
+        },
+    
+    "ӽ":    {
+            "char": "ӽ",
+            "codepoint": "U+04fd",
+            "decimal": 1277,            
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER HA WITH HOOK"
+        },
+    
+    "ӿ":    {
+            "char": "ӿ",
+            "codepoint": "U+04ff",
+            "decimal": 1279,            
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER HA WITH STROKE"
+        },
+    
+    "х":    {
+            "char": "х",
+            "codepoint": "U+0445",
+            "decimal": 1093,            
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER HA"
+        },
+    
+    "ẍ":    {
+            "char": "ẍ",
+            "codepoint": "U+1e8d",
+            "decimal": 7821,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER X WITH DIAERESIS"
+        },
+    
+    "ҳ":    {
+            "char": "ҳ",
+            "codepoint": "U+04b3",
+            "decimal": 1203,            
+            "lang": "Cyrillic",
+            "name": "CYRILLIC SMALL LETTER HA WITH DESCENDER"
+        },
+
+    "ẋ":{
+            "char":"ẋ",
+            "codepoint": "U+1E8B",
+            "decimal": 7819	,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER X WITH DOT ABOVE"
+    },
+    
+    "ẙ":    {
+            "char": "ẙ",
+            "codepoint": "U+1e99",
+            "decimal": 7833,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER Y WITH RING ABOVE"
+        },
+    
+    "ỳ":    {
+            "char": "ỳ",
+            "codepoint": "U+1ef3",
+            "decimal": 7923,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER Y WITH GRAVE"
+        },
+    
+    "ÿ":    {
+            "char": "ÿ",
+            "codepoint": "U+00ff",
+            "decimal": 255,            
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER Y WITH DIAERESIS"
+        },
+    
+    "ỹ":    {
+            "char": "ỹ",
+            "codepoint": "U+1ef9",
+            "decimal": 7929,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER Y WITH TILDE"
+        },
+
+    "ȳ":    {
+            "char": "ȳ",
+            "codepoint": "U+0233",
+            "decimal": 563,            
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER Y WITH MACRON"
+        },
+    
+    "ỷ":    {
+            "char": "ỷ",
+            "codepoint": "U+1ef7",
+            "decimal": 7927,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER Y WITH HOOK ABOVE"
+        },
+    
+    "ẏ":    {
+            "char": "ẏ",
+            "codepoint": "U+1e8f",
+            "decimal": 7823,            
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER Y WITH DOT ABOVE"
+        },
+    
+    "ŷ":    {
+            "char": "ŷ",
+            "codepoint": "U+0177",
+            "decimal": 375,            
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER Y WITH CIRCUMFLEX"
+        },
+    
+    "ý":    {
+            "char": "ý",
+            "codepoint": "U+00fd",
+            "decimal": 253,           
+            "lang": "Latin-1 Supplement",
+            "name": "LATIN SMALL LETTER Y WITH ACUTE"
+        },
+    
+    "ꭚ":    {
+            "char": "ꭚ",
+            "codepoint": "U+ab5a",
+            "decimal": 43866,           
+            "lang": "Latin Extended-E",
+            "name": "LATIN SMALL LETTER Y WITH SHORT RIGHT LEG"
+        },
+    
+    "ყ":    {
+            "char": "ყ",
+            "codepoint": "U+10e7",
+            "decimal": 4327,           
+            "lang": "Georgian",
+            "name": "GEORGIAN LETTER QAR"
+        },
+
+    "ẓ":    {
+            "char": "ẓ",
+            "codepoint": "U+1e93",
+            "decimal": 7827,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER Z WITH DOT BELOW"
+        },
+    
+    "ⲍ":    {
+            "char": "ⲍ",
+            "codepoint": "U+2c8d",
+            "decimal": 11405,           
+            "lang": "Coptic",
+            "name": "COPTIC SMALL LETTER ZATA"
+        },
+    
+    "ž":    {
+            "char": "ž",
+            "codepoint": "U+017e",
+            "decimal": 382,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER Z WITH CARON"
+        },
+    
+    "ż":    {
+            "char": "ż",
+            "codepoint": "U+017c",
+            "decimal": 380,           
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER Z WITH DOT ABOVE"
+        },
+    
+    "ẕ":    {
+            "char": "ẕ",
+            "codepoint": "U+1e95",
+            "decimal": 7829,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER Z WITH LINE BELOW"
+        },
+    
+    "ȥ":    {
+            "char": "ȥ",
+            "codepoint": "U+0225",
+            "decimal": 549,           
+            "lang": "Latin Extended-B",
+            "name": "LATIN SMALL LETTER Z WITH HOOK"
+        },
+    
+    "ẑ":    {
+            "char": "ẑ",
+            "codepoint": "U+1e91",
+            "decimal": 7825,           
+            "lang": "Latin Extended Additional",
+            "name": "LATIN SMALL LETTER Z WITH CIRCUMFLEX"
+        },
+    
+    "𐓺":    {
+            "char": "𐓺",
+            "codepoint": "U+104fa",
+            "decimal": 66810,           
+            "lang": "Osage",
+            "name": "unknown"
+        },
+    
+    "ᶎ":    {
+            "char": "ᶎ",
+            "codepoint": "U+1d8e",
+            "decimal": 7566,           
+            "lang": "Phonetic Extensions Supplement",
+            "name": "LATIN SMALL LETTER Z WITH PALATAL HOOK"
+        },
+    
+    "ꙁ":    {
+            "char": "ꙁ",
+            "codepoint": "U+a641",
+            "decimal": 42561,           
+            "lang": "Cyrillic Extended-B",
+            "name": "CYRILLIC SMALL LETTER ZEMLYA"
+        },
+    
+    "𐌶":    {
+            "char": "𐌶",
+            "codepoint": "U+10336",
+            "decimal": 66358,           
+            "lang": "Gothic",
+            "name": "GOTHIC LETTER IUJA"
+        },
+    
+    "ź":    {
+            "char": "ź",
+            "codepoint": "U+017a",
+            "decimal": 378,          
+            "lang": "Latin Extended-A",
+            "name": "LATIN SMALL LETTER Z WITH ACUTE"
+        },
+    
+    "ʑ":    {
+            "char": "ʑ",
+            "codepoint": "U+0291",
+            "decimal": 657,        
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER Z WITH CURL"
+        },
+    
+    "ⱬ":    {
+            "char": "ⱬ",
+            "codepoint": "U+2c6c",
+            "decimal": 11372,        
+            "lang": "Latin Extended-C",
+            "name": "LATIN SMALL LETTER Z WITH DESCENDER"
+        },
+    
+    "ᴢ":    {
+            "char": "ᴢ",
+            "codepoint": "U+1d22",
+            "decimal": 7458,        
+            "lang": "Phonetic Extensions",
+            "name": "LATIN LETTER SMALL CAPITAL Z"
+        }
+}

@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+
+{% block head %}
+{% endblock %}
+
+{% block body %}
+
+<div class="secTitle">Punycode Converter</div>
+<div class="row">
+    <div class="side">
+    <form action="/punycode" , method = "POST">
+        <label style="margin: 10px; margin-left: 20px; padding-bottom: 5px; font-weight: bold; font-size: large;" for="url"> 
+            URL
+        </label><br>
+        <input type="text" id="puny" name="puny" placeholder="Copy and Paste the URL"><br>
+        <input style="    position: relative; left: 310px;"type="submit" value="Submit">       
+    </div>
+    <div class="main">
+
+        {% if p %}  
+        <div class="out" style="background-color: lightcoral;">
+            <p> {{ p }} </p>
+        </div>
+        {% endif %}  
+
+        {% with messages = get_flashed_messages() %}  
+            {% if messages %}  
+              {% for message in messages %}  
+                <div class="out" style="background-color: rgb(255, 52, 52);">
+                   <p>{{ message }}</p>  
+                </div>
+              {% endfor %}  
+            {% endif %}  
+        {% endwith %}
+    </div>
+</div>
+    <div class="footer"></div>
+    
+{% endblock %}

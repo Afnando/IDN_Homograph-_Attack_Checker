@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+
+{% block head %}
+{% endblock %}
+
+{% block body %}
+
+<div class="secTitle">WHOIS</div>
+<div class="row"> 
+    <div class="side" >
+    <form action="/whois", method = "POST">
+        <label style="margin: 10px; margin-left: 20px; padding-bottom: 5px; font-weight: bold; font-size: large;" for="who">
+            URL
+        </label><br>
+        <input type="text" id="who" name="who" placeholder="Copy and Paste the URL"><br><br>
+        <input style="position: relative; left: 310px;" type="submit" value="Submit">
+    </div>
+
+    <div class="main">
+            
+            {% for key in info_Who %}
+                
+            <table width="800px" border="1" style="background-color: rgb(229, 255, 0);">
+            <tr>
+            <td width="180px" > {{ key.title() }} </td>
+            <td aligh="left">
+                {% if info_Who[key] is string %}
+                    {{ info_Who[key] }}
+                {% elif info_Who[key] is sequence %}
+                    {% for value in info_Who[key] %}
+                        {{ value }}<br/>
+                    {% endfor %}
+                {% else %}
+                    {{ info_Who[key] }}
+                {% endif %}
+            </td>
+            </tr>
+            {%endfor%}
+            </table><br/>
+    </div>
+</div>
+<div class= "footer"></div>
+{% endblock %}

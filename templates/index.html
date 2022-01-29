@@ -1,0 +1,74 @@
+{% extends 'base.html' %}
+
+{% block head %}
+{% endblock %}
+
+{% block body %}
+
+<div class="secTitle">IDN Checker</div>
+<div class="row"> 
+    <div class="side" >
+    <form action="/", method = "POST">
+        <label style="margin: 10px; margin-left: 20px; padding-bottom: 5px; font-weight: bold; font-size: large;" for="url">
+            URL
+        </label><br>
+        <input type="text" id="url" name="url" placeholder="Copy and Paste the URL"><br>
+        <input style="position: relative; left: 310px;" type="submit" value="Submit">
+    </div>
+
+    <div class="main">
+
+        {% with messages = get_flashed_messages() %}  
+            {% if 'No Homoglyph Characters Detected !!!' in messages %}  
+                {% for message in messages %}  
+                    <div class="out" style="background-color: rgb(118, 255, 118);">
+                    <p>{{ message }}</p>  
+                    </div>
+                {% endfor %}
+
+            {% elif 'This Domain Name is Suspicous !!!' in messages %} 
+                {% for message in messages %}  
+                    <div class="out" style="background-color:rgb(255, 52, 52) ;">
+                        <p>{{ message }}</p>  
+                        <p>{{ u }}</p>
+                    </div>
+                {% endfor %}
+
+            {% else %} 
+                {% for message in messages %}  
+                    <div class="out" style="background-color:rgb(255, 52, 52) ;">
+                        <p>{{ message }}</p>  
+                    </div>
+                {% endfor %}
+            {% endif %}  
+        {% endwith %} 
+
+        {% for i in list_c %}
+        <br>
+        <table border="1" align="center";>          
+            <tr>
+                <td width="210px" style="background-color: salmon;">Homoglyph Character</td>
+                <td style="background-color: salmon;">{{ i['char'] }}</td>
+            </tr>
+            <tr>
+                <td >Codepoint</td>
+                <td>{{ i['codepoint'] }}</td>
+            </tr>
+            <tr>
+                <td >Languange</td>
+                <td>{{ i['lang']}}</td>
+            </tr>
+            <tr>
+                <td >Name</td>
+                <td>{{ i['name'] }}</td>
+            </tr>
+              
+        </table>
+        {% endfor %}
+
+    </div>
+
+</div>
+<div class= "footer"></div>
+
+{% endblock %}

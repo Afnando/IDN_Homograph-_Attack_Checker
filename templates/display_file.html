@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+
+{% block head %}
+{% endblock %}
+
+{% block body %}
+
+<div class="secTitle" style="text-align: center;">Result</div>
+    {# get IDN #}
+        {% for ch in chf %}
+    <table border="1" align="center";>
+        <tr><br><br>
+            <th colspan = "2" >{{ ch }}</th>
+        </tr>
+        {% for i in chf.get(ch) %}
+        <tr>
+            <td width="210px" >Homoglyph Character</td>
+            <td >{{data[i]['char']}}</td>
+        </tr>
+        <tr>
+            <td >Codepoint</td>
+            <td>{{ data[i]['codepoint']}}</td>
+        </tr>
+        <tr>
+            <td >Languange</td>
+            <td>{{data[i]['lang']}}</td>
+        </tr>
+        <tr>
+            <td >Name</td>
+            <td>{{data[i]['name']}}</td>
+        </tr>
+        {% endfor %}  
+        
+    </table>
+
+    {% endfor %}
+
+</div>
+<br><br>
+<div class="footer"></div>
+    
+{% endblock %}
