@@ -195,8 +195,6 @@ def main():
         u = checkInput(args.url)
         dis = checkHomoChar(u)
         getDisplay(dis,args.url)
-        l = len(data)
-        print(l)
     
     #display punycode
     elif args.url and not args.check and args.punycode and not args.whois:
