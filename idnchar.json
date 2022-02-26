@@ -819,6 +819,14 @@
             "name": "LATIN SMALL LETTER G WITH DOT ABOVE"
         },
 
+    "ɡ":{
+            "char": "ɡ",
+            "codepoint": "U+0261",
+            "decimal": 609,            
+            "lang": "IPA Extensions",
+            "name": "LATIN SMALL LETTER SCRIPT G"
+        },
+
     "ћ": {
             "char": "ћ",
             "codepoint": "U+045b",
@@ -1065,6 +1073,14 @@
             "decimal": 1111,           
             "lang": "Cyrillic",
             "name": "CYRILLIC SMALL LETTER YI"
+        },
+
+    "ĭ":{
+            "char":"ĭ",
+            "codepoint": "U+012D",
+            "decimal": 301,           
+            "lang": "Latin Extended-A",
+            "name": "Latin Small Letter I with Breve"
         },
 
     "ɩ":{
