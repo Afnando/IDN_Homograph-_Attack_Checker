@@ -175,7 +175,6 @@ def goTo_Display_File_Result():
                 abort(400)
 
             else:
-                print(chf)
                 return render_template("display_file.html", chf = chf ,data = data)
 
         else:
